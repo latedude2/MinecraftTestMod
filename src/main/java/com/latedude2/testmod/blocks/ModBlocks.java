@@ -6,4 +6,8 @@ public class ModBlocks {
 
     @ObjectHolder("testmod:testblock")
     public static TestBlock TESTBLOCK;
+
+    @ObjectHolder("testmod:linute")
+    public static Linute LINUTE;
+
 }
