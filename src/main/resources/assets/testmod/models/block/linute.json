@@ -1,6 +1,6 @@
 {
   "parent": "block/cross",
   "textures": {
-    "all":  "testmod:block/linute"
+    "cross":  "testmod:block/linute"
   }
 }
