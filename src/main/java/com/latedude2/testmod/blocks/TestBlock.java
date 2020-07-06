@@ -6,7 +6,7 @@ import net.minecraft.block.material.Material;
 
 public class TestBlock extends Block {
     public TestBlock(){
-        super(Properties.create(Material.IRON).sound(SoundType.METAL));
+        super(Properties.create(Material.IRON).sound(SoundType.METAL).lightValue(5));
         setRegistryName("testblock");
     }
 }
